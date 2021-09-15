@@ -1,3 +1,21 @@
+
+def lightningMcqueensays():
+    print("kachow")
+    print("i am speeed")
+
+def eAsports():
+    print("EA SPORTS")
+    print("its in the game")
+
+def  favSports():
+    #print 1st sport
+    print("cross country")
+    #print second sport
+    print("swimming")
+    #print 3rd sport
+    print("hockey")
+
+
 def topFiveMovies():
     #print the first movie
     print("spooderman into the spooderverse")
@@ -16,3 +34,11 @@ def topFiveMovies():
 
 print("these are my top 5 movies")
 topFiveMovies()
+
+eAsports()
+
+print("lightning mcqueen be like")
+lightningMcqueensays()
+
+print("top three favorite sports")
+favSports()
